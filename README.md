@@ -2,4 +2,4 @@
 
 Trabajos de talento tech
 
-Brayan Andres Sanchez Pizo
+# Brayan Andres Sanchez Pizo
